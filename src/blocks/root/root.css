@@ -1,0 +1,6 @@
+.root {
+  background: #FCF7F0;
+  position: relative;
+  max-width: 1600px;
+  --switch-dark-color: #000000;
+}
