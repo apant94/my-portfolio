@@ -3,4 +3,5 @@
   position: relative;
   max-width: 1600px;
   --switch-dark-color: #000000;
+  --switch-light-color: #E8F162;
 }

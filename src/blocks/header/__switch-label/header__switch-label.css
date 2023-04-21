@@ -15,7 +15,7 @@
 
 .header__switch-label:after {
   content: 'ENG';
-  background: #E8F162;
+  background: var(--switch-light-color);
   border: 2px solid #000000;
   width: 97px;
   height: calc(100% - 2px);
