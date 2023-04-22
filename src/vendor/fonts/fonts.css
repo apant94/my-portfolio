@@ -6,3 +6,8 @@
   font-family: 'Roboto';
   /* font-weight: 400; */
 }
+
+@font-face {
+  src: url(./CorporateACondPro-Regular.ttf) format('truetype');
+  font-family: 'Corporate A Cond Pro';
+}
