@@ -1,8 +1,6 @@
 .page {
   position: relative;
-  /* width: 80%; */
-  max-width: 1275px;
-  margin: 100px auto 0;
+  margin: 100px 0 0;
   font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
   font-feature-settings: 'case' on;
   color: #000000;
