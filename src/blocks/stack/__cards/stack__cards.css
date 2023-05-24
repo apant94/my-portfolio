@@ -1,0 +1,7 @@
+.stack__cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 54px 58px;
+  padding: 0;
+  margin: 100px 0 0;
+}

@@ -1,0 +1,9 @@
+.profile__image {
+  width: 445px;
+  height: 447px;
+  position: absolute;
+  top: -123px;
+  right: 0;
+  transform: rotate(2.61deg);
+  z-index: -1;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Анна фронтедер!</title>
+  </head>
+  <body class="root">
+    <div class="page">
+      <header class="header">
+        <input class="header__switch" type="checkbox" id="switch">
+        <label class="header__switch-label" for="switch"></label>
+      </header>
+      <main class="main">
+        <section class="profile">
+          <h1 class="profile__title">Hey! I’m Anna frontend developer</h1>
+          <a class="profile__btn-link" href="https://t.me/vredit" target="_blank"><button class="profile__btn">Write me!</button></a>
+          <img class="profile__image" src="<%=require('./images/profile-image.jpg')%>" alt="My photo here :)">
+          <p class="profile__email">apanteleevadev@gmail.com</p>
+        </section>
+        <section class="aboutme">
+          <div class="aboutme__container">
+            <h2 class="aboutme__title">About me</h2>
+            <p class="aboutme__text">I do really like Corgi! Front-end developers create user interfaces (UI). "I've always found crafting polished user interactions that surprise and delight users to be the most rewardingand engaging task," says Mari Batilando, a software engineer at Meta. "In order to do this, you need to both have an eye for detailand a rock-solid understanding of the platform."</p>
+            <img class="aboutme__picture" src="<%=require('./images/aboutme-dog.svg')%>" alt="My dog!">
+          </div>
+        </section>
+        <section class="stack">
+          <div class="stack__container">
+            <h2 class="stack__title">My stack</h2>
+            <ul class="stack__cards">
+              <li class="stack__card"></li>
+            </ul>
+          </div>
+        </section>
+      </main>
+      <footer class="footer"></footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,8 @@
+.root {
+  background: #FCF7F0;
+  position: relative;
+  max-width: 1600px;
+  --dark-color: #000000;
+  --green-color: #E8F162;
+  --light-font-color: #FCF7F0;
+}
