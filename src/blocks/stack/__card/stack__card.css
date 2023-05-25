@@ -1,0 +1,7 @@
+.stack__card {
+  width: 269px;
+  height: 357px;
+  border: 2px solid var(--green-color);
+  border-radius: 29px;
+  z-index: 4;
+}
